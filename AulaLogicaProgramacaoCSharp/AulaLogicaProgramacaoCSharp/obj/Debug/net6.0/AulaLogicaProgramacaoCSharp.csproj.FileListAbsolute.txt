@@ -1,0 +1,15 @@
+C:\Estudo\AulaLogicaProgramacaoCSharp\AulaLogicaProgramacaoCSharp\bin\Debug\net6.0\AulaLogicaProgramacaoCSharp.exe
+C:\Estudo\AulaLogicaProgramacaoCSharp\AulaLogicaProgramacaoCSharp\bin\Debug\net6.0\AulaLogicaProgramacaoCSharp.deps.json
+C:\Estudo\AulaLogicaProgramacaoCSharp\AulaLogicaProgramacaoCSharp\bin\Debug\net6.0\AulaLogicaProgramacaoCSharp.runtimeconfig.json
+C:\Estudo\AulaLogicaProgramacaoCSharp\AulaLogicaProgramacaoCSharp\bin\Debug\net6.0\AulaLogicaProgramacaoCSharp.dll
+C:\Estudo\AulaLogicaProgramacaoCSharp\AulaLogicaProgramacaoCSharp\bin\Debug\net6.0\AulaLogicaProgramacaoCSharp.pdb
+C:\Estudo\AulaLogicaProgramacaoCSharp\AulaLogicaProgramacaoCSharp\obj\Debug\net6.0\AulaLogicaProgramacaoCSharp.csproj.AssemblyReference.cache
+C:\Estudo\AulaLogicaProgramacaoCSharp\AulaLogicaProgramacaoCSharp\obj\Debug\net6.0\AulaLogicaProgramacaoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudo\AulaLogicaProgramacaoCSharp\AulaLogicaProgramacaoCSharp\obj\Debug\net6.0\AulaLogicaProgramacaoCSharp.AssemblyInfoInputs.cache
+C:\Estudo\AulaLogicaProgramacaoCSharp\AulaLogicaProgramacaoCSharp\obj\Debug\net6.0\AulaLogicaProgramacaoCSharp.AssemblyInfo.cs
+C:\Estudo\AulaLogicaProgramacaoCSharp\AulaLogicaProgramacaoCSharp\obj\Debug\net6.0\AulaLogicaProgramacaoCSharp.csproj.CoreCompileInputs.cache
+C:\Estudo\AulaLogicaProgramacaoCSharp\AulaLogicaProgramacaoCSharp\obj\Debug\net6.0\AulaLogicaProgramacaoCSharp.dll
+C:\Estudo\AulaLogicaProgramacaoCSharp\AulaLogicaProgramacaoCSharp\obj\Debug\net6.0\refint\AulaLogicaProgramacaoCSharp.dll
+C:\Estudo\AulaLogicaProgramacaoCSharp\AulaLogicaProgramacaoCSharp\obj\Debug\net6.0\AulaLogicaProgramacaoCSharp.pdb
+C:\Estudo\AulaLogicaProgramacaoCSharp\AulaLogicaProgramacaoCSharp\obj\Debug\net6.0\AulaLogicaProgramacaoCSharp.genruntimeconfig.cache
+C:\Estudo\AulaLogicaProgramacaoCSharp\AulaLogicaProgramacaoCSharp\obj\Debug\net6.0\ref\AulaLogicaProgramacaoCSharp.dll

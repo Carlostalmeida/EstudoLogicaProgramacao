@@ -1,0 +1,15 @@
+C:\Estudo\ExercicioResolvido02\ExercicioResolvido02\bin\Debug\net6.0\ExercicioResolvido02.exe
+C:\Estudo\ExercicioResolvido02\ExercicioResolvido02\bin\Debug\net6.0\ExercicioResolvido02.deps.json
+C:\Estudo\ExercicioResolvido02\ExercicioResolvido02\bin\Debug\net6.0\ExercicioResolvido02.runtimeconfig.json
+C:\Estudo\ExercicioResolvido02\ExercicioResolvido02\bin\Debug\net6.0\ExercicioResolvido02.dll
+C:\Estudo\ExercicioResolvido02\ExercicioResolvido02\bin\Debug\net6.0\ExercicioResolvido02.pdb
+C:\Estudo\ExercicioResolvido02\ExercicioResolvido02\obj\Debug\net6.0\ExercicioResolvido02.csproj.AssemblyReference.cache
+C:\Estudo\ExercicioResolvido02\ExercicioResolvido02\obj\Debug\net6.0\ExercicioResolvido02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudo\ExercicioResolvido02\ExercicioResolvido02\obj\Debug\net6.0\ExercicioResolvido02.AssemblyInfoInputs.cache
+C:\Estudo\ExercicioResolvido02\ExercicioResolvido02\obj\Debug\net6.0\ExercicioResolvido02.AssemblyInfo.cs
+C:\Estudo\ExercicioResolvido02\ExercicioResolvido02\obj\Debug\net6.0\ExercicioResolvido02.csproj.CoreCompileInputs.cache
+C:\Estudo\ExercicioResolvido02\ExercicioResolvido02\obj\Debug\net6.0\ExercicioResolvido02.dll
+C:\Estudo\ExercicioResolvido02\ExercicioResolvido02\obj\Debug\net6.0\refint\ExercicioResolvido02.dll
+C:\Estudo\ExercicioResolvido02\ExercicioResolvido02\obj\Debug\net6.0\ExercicioResolvido02.pdb
+C:\Estudo\ExercicioResolvido02\ExercicioResolvido02\obj\Debug\net6.0\ExercicioResolvido02.genruntimeconfig.cache
+C:\Estudo\ExercicioResolvido02\ExercicioResolvido02\obj\Debug\net6.0\ref\ExercicioResolvido02.dll

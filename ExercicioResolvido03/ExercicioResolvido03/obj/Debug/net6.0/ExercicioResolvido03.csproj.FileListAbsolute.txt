@@ -1,0 +1,15 @@
+C:\Estudo\ExercicioResolvido03\ExercicioResolvido03\bin\Debug\net6.0\ExercicioResolvido03.exe
+C:\Estudo\ExercicioResolvido03\ExercicioResolvido03\bin\Debug\net6.0\ExercicioResolvido03.deps.json
+C:\Estudo\ExercicioResolvido03\ExercicioResolvido03\bin\Debug\net6.0\ExercicioResolvido03.runtimeconfig.json
+C:\Estudo\ExercicioResolvido03\ExercicioResolvido03\bin\Debug\net6.0\ExercicioResolvido03.dll
+C:\Estudo\ExercicioResolvido03\ExercicioResolvido03\bin\Debug\net6.0\ExercicioResolvido03.pdb
+C:\Estudo\ExercicioResolvido03\ExercicioResolvido03\obj\Debug\net6.0\ExercicioResolvido03.csproj.AssemblyReference.cache
+C:\Estudo\ExercicioResolvido03\ExercicioResolvido03\obj\Debug\net6.0\ExercicioResolvido03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudo\ExercicioResolvido03\ExercicioResolvido03\obj\Debug\net6.0\ExercicioResolvido03.AssemblyInfoInputs.cache
+C:\Estudo\ExercicioResolvido03\ExercicioResolvido03\obj\Debug\net6.0\ExercicioResolvido03.AssemblyInfo.cs
+C:\Estudo\ExercicioResolvido03\ExercicioResolvido03\obj\Debug\net6.0\ExercicioResolvido03.csproj.CoreCompileInputs.cache
+C:\Estudo\ExercicioResolvido03\ExercicioResolvido03\obj\Debug\net6.0\ExercicioResolvido03.dll
+C:\Estudo\ExercicioResolvido03\ExercicioResolvido03\obj\Debug\net6.0\refint\ExercicioResolvido03.dll
+C:\Estudo\ExercicioResolvido03\ExercicioResolvido03\obj\Debug\net6.0\ExercicioResolvido03.pdb
+C:\Estudo\ExercicioResolvido03\ExercicioResolvido03\obj\Debug\net6.0\ExercicioResolvido03.genruntimeconfig.cache
+C:\Estudo\ExercicioResolvido03\ExercicioResolvido03\obj\Debug\net6.0\ref\ExercicioResolvido03.dll
