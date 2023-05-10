@@ -1,0 +1,15 @@
+C:\Estudo\ExervcicioResolvido04\ExervcicioResolvido04\bin\Debug\net6.0\ExervcicioResolvido04.exe
+C:\Estudo\ExervcicioResolvido04\ExervcicioResolvido04\bin\Debug\net6.0\ExervcicioResolvido04.deps.json
+C:\Estudo\ExervcicioResolvido04\ExervcicioResolvido04\bin\Debug\net6.0\ExervcicioResolvido04.runtimeconfig.json
+C:\Estudo\ExervcicioResolvido04\ExervcicioResolvido04\bin\Debug\net6.0\ExervcicioResolvido04.dll
+C:\Estudo\ExervcicioResolvido04\ExervcicioResolvido04\bin\Debug\net6.0\ExervcicioResolvido04.pdb
+C:\Estudo\ExervcicioResolvido04\ExervcicioResolvido04\obj\Debug\net6.0\ExervcicioResolvido04.csproj.AssemblyReference.cache
+C:\Estudo\ExervcicioResolvido04\ExervcicioResolvido04\obj\Debug\net6.0\ExervcicioResolvido04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudo\ExervcicioResolvido04\ExervcicioResolvido04\obj\Debug\net6.0\ExervcicioResolvido04.AssemblyInfoInputs.cache
+C:\Estudo\ExervcicioResolvido04\ExervcicioResolvido04\obj\Debug\net6.0\ExervcicioResolvido04.AssemblyInfo.cs
+C:\Estudo\ExervcicioResolvido04\ExervcicioResolvido04\obj\Debug\net6.0\ExervcicioResolvido04.csproj.CoreCompileInputs.cache
+C:\Estudo\ExervcicioResolvido04\ExervcicioResolvido04\obj\Debug\net6.0\ExervcicioResolvido04.dll
+C:\Estudo\ExervcicioResolvido04\ExervcicioResolvido04\obj\Debug\net6.0\refint\ExervcicioResolvido04.dll
+C:\Estudo\ExervcicioResolvido04\ExervcicioResolvido04\obj\Debug\net6.0\ExervcicioResolvido04.pdb
+C:\Estudo\ExervcicioResolvido04\ExervcicioResolvido04\obj\Debug\net6.0\ExervcicioResolvido04.genruntimeconfig.cache
+C:\Estudo\ExervcicioResolvido04\ExervcicioResolvido04\obj\Debug\net6.0\ref\ExervcicioResolvido04.dll

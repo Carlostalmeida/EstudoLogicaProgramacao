@@ -1,0 +1,15 @@
+D:\SmeProntos\ExercicioURI1047\ExercicioURI1047\bin\Debug\net6.0\ExercicioURI1047.exe
+D:\SmeProntos\ExercicioURI1047\ExercicioURI1047\bin\Debug\net6.0\ExercicioURI1047.deps.json
+D:\SmeProntos\ExercicioURI1047\ExercicioURI1047\bin\Debug\net6.0\ExercicioURI1047.runtimeconfig.json
+D:\SmeProntos\ExercicioURI1047\ExercicioURI1047\bin\Debug\net6.0\ExercicioURI1047.dll
+D:\SmeProntos\ExercicioURI1047\ExercicioURI1047\bin\Debug\net6.0\ExercicioURI1047.pdb
+D:\SmeProntos\ExercicioURI1047\ExercicioURI1047\obj\Debug\net6.0\ExercicioURI1047.csproj.AssemblyReference.cache
+D:\SmeProntos\ExercicioURI1047\ExercicioURI1047\obj\Debug\net6.0\ExercicioURI1047.GeneratedMSBuildEditorConfig.editorconfig
+D:\SmeProntos\ExercicioURI1047\ExercicioURI1047\obj\Debug\net6.0\ExercicioURI1047.AssemblyInfoInputs.cache
+D:\SmeProntos\ExercicioURI1047\ExercicioURI1047\obj\Debug\net6.0\ExercicioURI1047.AssemblyInfo.cs
+D:\SmeProntos\ExercicioURI1047\ExercicioURI1047\obj\Debug\net6.0\ExercicioURI1047.csproj.CoreCompileInputs.cache
+D:\SmeProntos\ExercicioURI1047\ExercicioURI1047\obj\Debug\net6.0\ExercicioURI1047.dll
+D:\SmeProntos\ExercicioURI1047\ExercicioURI1047\obj\Debug\net6.0\refint\ExercicioURI1047.dll
+D:\SmeProntos\ExercicioURI1047\ExercicioURI1047\obj\Debug\net6.0\ExercicioURI1047.pdb
+D:\SmeProntos\ExercicioURI1047\ExercicioURI1047\obj\Debug\net6.0\ExercicioURI1047.genruntimeconfig.cache
+D:\SmeProntos\ExercicioURI1047\ExercicioURI1047\obj\Debug\net6.0\ref\ExercicioURI1047.dll
