@@ -1,0 +1,15 @@
+C:\Estudo\ExerciciosURI1117\ExerciciosURI1117\bin\Debug\net6.0\ExerciciosURI1117.exe
+C:\Estudo\ExerciciosURI1117\ExerciciosURI1117\bin\Debug\net6.0\ExerciciosURI1117.deps.json
+C:\Estudo\ExerciciosURI1117\ExerciciosURI1117\bin\Debug\net6.0\ExerciciosURI1117.runtimeconfig.json
+C:\Estudo\ExerciciosURI1117\ExerciciosURI1117\bin\Debug\net6.0\ExerciciosURI1117.dll
+C:\Estudo\ExerciciosURI1117\ExerciciosURI1117\bin\Debug\net6.0\ExerciciosURI1117.pdb
+C:\Estudo\ExerciciosURI1117\ExerciciosURI1117\obj\Debug\net6.0\ExerciciosURI1117.csproj.AssemblyReference.cache
+C:\Estudo\ExerciciosURI1117\ExerciciosURI1117\obj\Debug\net6.0\ExerciciosURI1117.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudo\ExerciciosURI1117\ExerciciosURI1117\obj\Debug\net6.0\ExerciciosURI1117.AssemblyInfoInputs.cache
+C:\Estudo\ExerciciosURI1117\ExerciciosURI1117\obj\Debug\net6.0\ExerciciosURI1117.AssemblyInfo.cs
+C:\Estudo\ExerciciosURI1117\ExerciciosURI1117\obj\Debug\net6.0\ExerciciosURI1117.csproj.CoreCompileInputs.cache
+C:\Estudo\ExerciciosURI1117\ExerciciosURI1117\obj\Debug\net6.0\ExerciciosURI1117.dll
+C:\Estudo\ExerciciosURI1117\ExerciciosURI1117\obj\Debug\net6.0\refint\ExerciciosURI1117.dll
+C:\Estudo\ExerciciosURI1117\ExerciciosURI1117\obj\Debug\net6.0\ExerciciosURI1117.pdb
+C:\Estudo\ExerciciosURI1117\ExerciciosURI1117\obj\Debug\net6.0\ExerciciosURI1117.genruntimeconfig.cache
+C:\Estudo\ExerciciosURI1117\ExerciciosURI1117\obj\Debug\net6.0\ref\ExerciciosURI1117.dll
