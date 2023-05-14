@@ -1,0 +1,15 @@
+C:\Estudo\ExercicioURI1009\ExercicioURI1009\bin\Debug\net6.0\ExercicioURI1009.exe
+C:\Estudo\ExercicioURI1009\ExercicioURI1009\bin\Debug\net6.0\ExercicioURI1009.deps.json
+C:\Estudo\ExercicioURI1009\ExercicioURI1009\bin\Debug\net6.0\ExercicioURI1009.runtimeconfig.json
+C:\Estudo\ExercicioURI1009\ExercicioURI1009\bin\Debug\net6.0\ExercicioURI1009.dll
+C:\Estudo\ExercicioURI1009\ExercicioURI1009\bin\Debug\net6.0\ExercicioURI1009.pdb
+C:\Estudo\ExercicioURI1009\ExercicioURI1009\obj\Debug\net6.0\ExercicioURI1009.csproj.AssemblyReference.cache
+C:\Estudo\ExercicioURI1009\ExercicioURI1009\obj\Debug\net6.0\ExercicioURI1009.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudo\ExercicioURI1009\ExercicioURI1009\obj\Debug\net6.0\ExercicioURI1009.AssemblyInfoInputs.cache
+C:\Estudo\ExercicioURI1009\ExercicioURI1009\obj\Debug\net6.0\ExercicioURI1009.AssemblyInfo.cs
+C:\Estudo\ExercicioURI1009\ExercicioURI1009\obj\Debug\net6.0\ExercicioURI1009.csproj.CoreCompileInputs.cache
+C:\Estudo\ExercicioURI1009\ExercicioURI1009\obj\Debug\net6.0\ExercicioURI1009.dll
+C:\Estudo\ExercicioURI1009\ExercicioURI1009\obj\Debug\net6.0\refint\ExercicioURI1009.dll
+C:\Estudo\ExercicioURI1009\ExercicioURI1009\obj\Debug\net6.0\ExercicioURI1009.pdb
+C:\Estudo\ExercicioURI1009\ExercicioURI1009\obj\Debug\net6.0\ExercicioURI1009.genruntimeconfig.cache
+C:\Estudo\ExercicioURI1009\ExercicioURI1009\obj\Debug\net6.0\ref\ExercicioURI1009.dll

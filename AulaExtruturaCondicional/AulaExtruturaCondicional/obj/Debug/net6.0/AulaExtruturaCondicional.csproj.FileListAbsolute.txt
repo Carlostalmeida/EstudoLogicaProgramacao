@@ -1,0 +1,15 @@
+C:\Estudo\AulaExtruturaCondicional\AulaExtruturaCondicional\bin\Debug\net6.0\AulaExtruturaCondicional.exe
+C:\Estudo\AulaExtruturaCondicional\AulaExtruturaCondicional\bin\Debug\net6.0\AulaExtruturaCondicional.deps.json
+C:\Estudo\AulaExtruturaCondicional\AulaExtruturaCondicional\bin\Debug\net6.0\AulaExtruturaCondicional.runtimeconfig.json
+C:\Estudo\AulaExtruturaCondicional\AulaExtruturaCondicional\bin\Debug\net6.0\AulaExtruturaCondicional.dll
+C:\Estudo\AulaExtruturaCondicional\AulaExtruturaCondicional\bin\Debug\net6.0\AulaExtruturaCondicional.pdb
+C:\Estudo\AulaExtruturaCondicional\AulaExtruturaCondicional\obj\Debug\net6.0\AulaExtruturaCondicional.csproj.AssemblyReference.cache
+C:\Estudo\AulaExtruturaCondicional\AulaExtruturaCondicional\obj\Debug\net6.0\AulaExtruturaCondicional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudo\AulaExtruturaCondicional\AulaExtruturaCondicional\obj\Debug\net6.0\AulaExtruturaCondicional.AssemblyInfoInputs.cache
+C:\Estudo\AulaExtruturaCondicional\AulaExtruturaCondicional\obj\Debug\net6.0\AulaExtruturaCondicional.AssemblyInfo.cs
+C:\Estudo\AulaExtruturaCondicional\AulaExtruturaCondicional\obj\Debug\net6.0\AulaExtruturaCondicional.csproj.CoreCompileInputs.cache
+C:\Estudo\AulaExtruturaCondicional\AulaExtruturaCondicional\obj\Debug\net6.0\AulaExtruturaCondicional.dll
+C:\Estudo\AulaExtruturaCondicional\AulaExtruturaCondicional\obj\Debug\net6.0\refint\AulaExtruturaCondicional.dll
+C:\Estudo\AulaExtruturaCondicional\AulaExtruturaCondicional\obj\Debug\net6.0\AulaExtruturaCondicional.pdb
+C:\Estudo\AulaExtruturaCondicional\AulaExtruturaCondicional\obj\Debug\net6.0\AulaExtruturaCondicional.genruntimeconfig.cache
+C:\Estudo\AulaExtruturaCondicional\AulaExtruturaCondicional\obj\Debug\net6.0\ref\AulaExtruturaCondicional.dll
