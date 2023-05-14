@@ -1,0 +1,15 @@
+C:\EstudoLogicaProgramacao\ExercicioURI1154\ExercicioURI1154\bin\Debug\net6.0\ExercicioURI1154.exe
+C:\EstudoLogicaProgramacao\ExercicioURI1154\ExercicioURI1154\bin\Debug\net6.0\ExercicioURI1154.deps.json
+C:\EstudoLogicaProgramacao\ExercicioURI1154\ExercicioURI1154\bin\Debug\net6.0\ExercicioURI1154.runtimeconfig.json
+C:\EstudoLogicaProgramacao\ExercicioURI1154\ExercicioURI1154\bin\Debug\net6.0\ExercicioURI1154.dll
+C:\EstudoLogicaProgramacao\ExercicioURI1154\ExercicioURI1154\bin\Debug\net6.0\ExercicioURI1154.pdb
+C:\EstudoLogicaProgramacao\ExercicioURI1154\ExercicioURI1154\obj\Debug\net6.0\ExercicioURI1154.csproj.AssemblyReference.cache
+C:\EstudoLogicaProgramacao\ExercicioURI1154\ExercicioURI1154\obj\Debug\net6.0\ExercicioURI1154.GeneratedMSBuildEditorConfig.editorconfig
+C:\EstudoLogicaProgramacao\ExercicioURI1154\ExercicioURI1154\obj\Debug\net6.0\ExercicioURI1154.AssemblyInfoInputs.cache
+C:\EstudoLogicaProgramacao\ExercicioURI1154\ExercicioURI1154\obj\Debug\net6.0\ExercicioURI1154.AssemblyInfo.cs
+C:\EstudoLogicaProgramacao\ExercicioURI1154\ExercicioURI1154\obj\Debug\net6.0\ExercicioURI1154.csproj.CoreCompileInputs.cache
+C:\EstudoLogicaProgramacao\ExercicioURI1154\ExercicioURI1154\obj\Debug\net6.0\ExercicioURI1154.dll
+C:\EstudoLogicaProgramacao\ExercicioURI1154\ExercicioURI1154\obj\Debug\net6.0\refint\ExercicioURI1154.dll
+C:\EstudoLogicaProgramacao\ExercicioURI1154\ExercicioURI1154\obj\Debug\net6.0\ExercicioURI1154.pdb
+C:\EstudoLogicaProgramacao\ExercicioURI1154\ExercicioURI1154\obj\Debug\net6.0\ExercicioURI1154.genruntimeconfig.cache
+C:\EstudoLogicaProgramacao\ExercicioURI1154\ExercicioURI1154\obj\Debug\net6.0\ref\ExercicioURI1154.dll
