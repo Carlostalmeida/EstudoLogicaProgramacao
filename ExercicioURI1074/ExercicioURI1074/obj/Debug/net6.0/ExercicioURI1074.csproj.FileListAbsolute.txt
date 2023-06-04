@@ -1,0 +1,15 @@
+C:\EstudoLogicaProgramacao\ExercicioURI1074\ExercicioURI1074\bin\Debug\net6.0\ExercicioURI1074.exe
+C:\EstudoLogicaProgramacao\ExercicioURI1074\ExercicioURI1074\bin\Debug\net6.0\ExercicioURI1074.deps.json
+C:\EstudoLogicaProgramacao\ExercicioURI1074\ExercicioURI1074\bin\Debug\net6.0\ExercicioURI1074.runtimeconfig.json
+C:\EstudoLogicaProgramacao\ExercicioURI1074\ExercicioURI1074\bin\Debug\net6.0\ExercicioURI1074.dll
+C:\EstudoLogicaProgramacao\ExercicioURI1074\ExercicioURI1074\bin\Debug\net6.0\ExercicioURI1074.pdb
+C:\EstudoLogicaProgramacao\ExercicioURI1074\ExercicioURI1074\obj\Debug\net6.0\ExercicioURI1074.csproj.AssemblyReference.cache
+C:\EstudoLogicaProgramacao\ExercicioURI1074\ExercicioURI1074\obj\Debug\net6.0\ExercicioURI1074.GeneratedMSBuildEditorConfig.editorconfig
+C:\EstudoLogicaProgramacao\ExercicioURI1074\ExercicioURI1074\obj\Debug\net6.0\ExercicioURI1074.AssemblyInfoInputs.cache
+C:\EstudoLogicaProgramacao\ExercicioURI1074\ExercicioURI1074\obj\Debug\net6.0\ExercicioURI1074.AssemblyInfo.cs
+C:\EstudoLogicaProgramacao\ExercicioURI1074\ExercicioURI1074\obj\Debug\net6.0\ExercicioURI1074.csproj.CoreCompileInputs.cache
+C:\EstudoLogicaProgramacao\ExercicioURI1074\ExercicioURI1074\obj\Debug\net6.0\ExercicioURI1074.dll
+C:\EstudoLogicaProgramacao\ExercicioURI1074\ExercicioURI1074\obj\Debug\net6.0\refint\ExercicioURI1074.dll
+C:\EstudoLogicaProgramacao\ExercicioURI1074\ExercicioURI1074\obj\Debug\net6.0\ExercicioURI1074.pdb
+C:\EstudoLogicaProgramacao\ExercicioURI1074\ExercicioURI1074\obj\Debug\net6.0\ExercicioURI1074.genruntimeconfig.cache
+C:\EstudoLogicaProgramacao\ExercicioURI1074\ExercicioURI1074\obj\Debug\net6.0\ref\ExercicioURI1074.dll
