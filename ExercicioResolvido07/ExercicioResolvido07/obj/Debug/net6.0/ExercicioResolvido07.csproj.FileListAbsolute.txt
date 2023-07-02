@@ -1,0 +1,15 @@
+C:\EstudoLogicaProgramacao\ExercicioResolvido07\ExercicioResolvido07\bin\Debug\net6.0\ExercicioResolvido07.exe
+C:\EstudoLogicaProgramacao\ExercicioResolvido07\ExercicioResolvido07\bin\Debug\net6.0\ExercicioResolvido07.deps.json
+C:\EstudoLogicaProgramacao\ExercicioResolvido07\ExercicioResolvido07\bin\Debug\net6.0\ExercicioResolvido07.runtimeconfig.json
+C:\EstudoLogicaProgramacao\ExercicioResolvido07\ExercicioResolvido07\bin\Debug\net6.0\ExercicioResolvido07.dll
+C:\EstudoLogicaProgramacao\ExercicioResolvido07\ExercicioResolvido07\bin\Debug\net6.0\ExercicioResolvido07.pdb
+C:\EstudoLogicaProgramacao\ExercicioResolvido07\ExercicioResolvido07\obj\Debug\net6.0\ExercicioResolvido07.csproj.AssemblyReference.cache
+C:\EstudoLogicaProgramacao\ExercicioResolvido07\ExercicioResolvido07\obj\Debug\net6.0\ExercicioResolvido07.GeneratedMSBuildEditorConfig.editorconfig
+C:\EstudoLogicaProgramacao\ExercicioResolvido07\ExercicioResolvido07\obj\Debug\net6.0\ExercicioResolvido07.AssemblyInfoInputs.cache
+C:\EstudoLogicaProgramacao\ExercicioResolvido07\ExercicioResolvido07\obj\Debug\net6.0\ExercicioResolvido07.AssemblyInfo.cs
+C:\EstudoLogicaProgramacao\ExercicioResolvido07\ExercicioResolvido07\obj\Debug\net6.0\ExercicioResolvido07.csproj.CoreCompileInputs.cache
+C:\EstudoLogicaProgramacao\ExercicioResolvido07\ExercicioResolvido07\obj\Debug\net6.0\ExercicioResolvido07.dll
+C:\EstudoLogicaProgramacao\ExercicioResolvido07\ExercicioResolvido07\obj\Debug\net6.0\refint\ExercicioResolvido07.dll
+C:\EstudoLogicaProgramacao\ExercicioResolvido07\ExercicioResolvido07\obj\Debug\net6.0\ExercicioResolvido07.pdb
+C:\EstudoLogicaProgramacao\ExercicioResolvido07\ExercicioResolvido07\obj\Debug\net6.0\ExercicioResolvido07.genruntimeconfig.cache
+C:\EstudoLogicaProgramacao\ExercicioResolvido07\ExercicioResolvido07\obj\Debug\net6.0\ref\ExercicioResolvido07.dll

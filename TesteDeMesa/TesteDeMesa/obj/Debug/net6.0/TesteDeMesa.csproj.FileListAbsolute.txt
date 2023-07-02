@@ -1,0 +1,15 @@
+C:\EstudoLogicaProgramacao\TesteDeMesa\TesteDeMesa\bin\Debug\net6.0\TesteDeMesa.exe
+C:\EstudoLogicaProgramacao\TesteDeMesa\TesteDeMesa\bin\Debug\net6.0\TesteDeMesa.deps.json
+C:\EstudoLogicaProgramacao\TesteDeMesa\TesteDeMesa\bin\Debug\net6.0\TesteDeMesa.runtimeconfig.json
+C:\EstudoLogicaProgramacao\TesteDeMesa\TesteDeMesa\bin\Debug\net6.0\TesteDeMesa.dll
+C:\EstudoLogicaProgramacao\TesteDeMesa\TesteDeMesa\bin\Debug\net6.0\TesteDeMesa.pdb
+C:\EstudoLogicaProgramacao\TesteDeMesa\TesteDeMesa\obj\Debug\net6.0\TesteDeMesa.csproj.AssemblyReference.cache
+C:\EstudoLogicaProgramacao\TesteDeMesa\TesteDeMesa\obj\Debug\net6.0\TesteDeMesa.GeneratedMSBuildEditorConfig.editorconfig
+C:\EstudoLogicaProgramacao\TesteDeMesa\TesteDeMesa\obj\Debug\net6.0\TesteDeMesa.AssemblyInfoInputs.cache
+C:\EstudoLogicaProgramacao\TesteDeMesa\TesteDeMesa\obj\Debug\net6.0\TesteDeMesa.AssemblyInfo.cs
+C:\EstudoLogicaProgramacao\TesteDeMesa\TesteDeMesa\obj\Debug\net6.0\TesteDeMesa.csproj.CoreCompileInputs.cache
+C:\EstudoLogicaProgramacao\TesteDeMesa\TesteDeMesa\obj\Debug\net6.0\TesteDeMesa.dll
+C:\EstudoLogicaProgramacao\TesteDeMesa\TesteDeMesa\obj\Debug\net6.0\refint\TesteDeMesa.dll
+C:\EstudoLogicaProgramacao\TesteDeMesa\TesteDeMesa\obj\Debug\net6.0\TesteDeMesa.pdb
+C:\EstudoLogicaProgramacao\TesteDeMesa\TesteDeMesa\obj\Debug\net6.0\TesteDeMesa.genruntimeconfig.cache
+C:\EstudoLogicaProgramacao\TesteDeMesa\TesteDeMesa\obj\Debug\net6.0\ref\TesteDeMesa.dll

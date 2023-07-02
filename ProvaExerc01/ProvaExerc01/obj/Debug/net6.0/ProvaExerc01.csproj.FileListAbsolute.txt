@@ -1,0 +1,15 @@
+C:\EstudoLogicaProgramacao\ProvaExerc01\ProvaExerc01\bin\Debug\net6.0\ProvaExerc01.exe
+C:\EstudoLogicaProgramacao\ProvaExerc01\ProvaExerc01\bin\Debug\net6.0\ProvaExerc01.deps.json
+C:\EstudoLogicaProgramacao\ProvaExerc01\ProvaExerc01\bin\Debug\net6.0\ProvaExerc01.runtimeconfig.json
+C:\EstudoLogicaProgramacao\ProvaExerc01\ProvaExerc01\bin\Debug\net6.0\ProvaExerc01.dll
+C:\EstudoLogicaProgramacao\ProvaExerc01\ProvaExerc01\bin\Debug\net6.0\ProvaExerc01.pdb
+C:\EstudoLogicaProgramacao\ProvaExerc01\ProvaExerc01\obj\Debug\net6.0\ProvaExerc01.csproj.AssemblyReference.cache
+C:\EstudoLogicaProgramacao\ProvaExerc01\ProvaExerc01\obj\Debug\net6.0\ProvaExerc01.GeneratedMSBuildEditorConfig.editorconfig
+C:\EstudoLogicaProgramacao\ProvaExerc01\ProvaExerc01\obj\Debug\net6.0\ProvaExerc01.AssemblyInfoInputs.cache
+C:\EstudoLogicaProgramacao\ProvaExerc01\ProvaExerc01\obj\Debug\net6.0\ProvaExerc01.AssemblyInfo.cs
+C:\EstudoLogicaProgramacao\ProvaExerc01\ProvaExerc01\obj\Debug\net6.0\ProvaExerc01.csproj.CoreCompileInputs.cache
+C:\EstudoLogicaProgramacao\ProvaExerc01\ProvaExerc01\obj\Debug\net6.0\ProvaExerc01.dll
+C:\EstudoLogicaProgramacao\ProvaExerc01\ProvaExerc01\obj\Debug\net6.0\refint\ProvaExerc01.dll
+C:\EstudoLogicaProgramacao\ProvaExerc01\ProvaExerc01\obj\Debug\net6.0\ProvaExerc01.pdb
+C:\EstudoLogicaProgramacao\ProvaExerc01\ProvaExerc01\obj\Debug\net6.0\ProvaExerc01.genruntimeconfig.cache
+C:\EstudoLogicaProgramacao\ProvaExerc01\ProvaExerc01\obj\Debug\net6.0\ref\ProvaExerc01.dll
